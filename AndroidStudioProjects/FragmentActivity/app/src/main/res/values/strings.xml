@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FragmentActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragmentone">Fragment First !!</string>
+    <string name="button1">First</string>
+    <string name="button2">Second</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragmenttwo">Fragment Second !!</string>
+    <string name="textview">Fragment View by Click in society !!</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToggleButton</string>
+    <string name="Onn">Wifi On</string>
+    <string name="off">Wifi Off</string>
+    <string-array name="Select_City">
+       <item>Select City</item>
+        <item>Badah</item>
+        <item>Dokri</item>
+        <item>Naseerabad</item>
+    </string-array>
+</resources>

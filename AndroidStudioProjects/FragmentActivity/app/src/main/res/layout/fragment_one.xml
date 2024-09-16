@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EDA3A3"
+    tools:context=".Fragments.FragmentOne">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/abcd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="@string/fragmentone"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+
+</FrameLayout>
